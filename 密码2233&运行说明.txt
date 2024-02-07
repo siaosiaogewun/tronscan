@@ -1,0 +1,14 @@
+密码2233
+
+运行文件位置
+
+C#tron扫块post密码2233.rar\bin\Debug\net8.0\ConsoleApp1.exe
+
+运行前需要下载支持库。
+
+
+
+网页 直链 https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.1-windows-x64-installer
